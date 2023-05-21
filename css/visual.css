@@ -112,7 +112,7 @@ section h2{font-size: 32px;}
 
 
 #economy{
-    background-color: rgba(190, 199, 60, 0.25);
+    background-color: rgba(190, 199, 60, 0.45);
 }
 #economy .articles article a{
     background-color:rgba(133, 168, 7, 0.6) ;
@@ -121,17 +121,17 @@ section h2{font-size: 32px;}
 
 
 #tecnology{
-    background-color:rgba(89, 0, 255, 0.5) ;
+    background-color:rgba(89, 0, 255, 0.2) ;
 }
 #tecnology .articles article a{
-    background-color:rgba(50, 7, 168, 1) ;
+    background-color:rgba(50, 7, 168, 0.5) ;
     color: #000;
 }
 
 #security{
-    background-color: rgba(139, 2, 9, 0.6);
+    background-color: rgba(139, 2, 9, 0.2);
 }
 #security .articles article a{
-    background-color:rgba(168, 58, 7, 1) ;
+    background-color:rgba(168, 58, 7, 0.5) ;
     color: #000;
 }
